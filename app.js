@@ -8,6 +8,7 @@ const encrypt = require("mongoose-encryption");
 
 
 const app = express();
+alert("Hello")
 
 
 console.log(process.env.SECRET)
